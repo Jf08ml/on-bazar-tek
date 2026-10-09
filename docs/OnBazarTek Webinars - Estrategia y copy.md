@@ -1,4 +1,4 @@
-# Livento — Estrategia, copy y SEO (landing `/plataforma-webinars`)
+# OnBazarTek Webinars — Estrategia, copy y SEO (landing `/plataforma-webinars`)
 
 ## 1. Análisis competitivo (precios consultados oct-2026, USD, facturación anual salvo nota)
 | Plataforma | Entrada | Capacidad entrada | Patrón de landing / propuesta |
@@ -34,7 +34,7 @@ Etiquetado **Próximamente / En desarrollo:** CTA en vivo, reacciones, recursos 
 Capacidades, duraciones y topes son **ejemplos a validar con costos reales de streaming**. "Recomendado" ≠ "más vendido".
 
 ## 6. SEO
-- **Title:** Plataforma de webinars con landing, WhatsApp y analytics | Livento
+- **Title:** Plataforma de webinars con landing, WhatsApp y analytics | OnBazarTek Webinars
 - **Meta:** Crea, transmite y mide webinars desde una sola plataforma: landing de registro, email, WhatsApp, estudio en navegador, grabación y analytics con UTM. Agenda una demo.
 - **H1 único**, H2 por sección, H3 por tarjeta. URL: `/plataforma-webinars`. Keyword principal "plataforma de webinars" en title, H1-eyebrow, subtítulo, FAQ; secundarias en H2/FAQ de forma natural.
 - **Intención:** "plataforma/software para webinars" = comercial/comparación → landing; "crear/organizar webinar" = informacional → blog `/blog/como-crear-un-webinar`; "webinar con WhatsApp/landing/registro/analytics" = comercial de nicho → páginas futuras solo con contenido real.

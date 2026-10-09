@@ -8,7 +8,7 @@ npm run build && npm start
 
 ## Arquitectura de marca
 - **`/`** — home corporativa de OnBazarTek (hero, portafolio de soluciones, primera solución, contacto).
-- **`/plataforma-webinars`** — página del producto **OnBazarTek Webinars** (antes presentado como "Livento").
+- **`/plataforma-webinars`** — página del producto **OnBazarTek Webinars**.
 - Datos de marca, correos y portafolio centralizados en `lib/site.ts` (`SOLUTIONS` alimenta home, footer y sitemap).
 
 ## Componentes
@@ -21,4 +21,4 @@ npm run build && npm start
 2. En `lib/site.ts`, marca la línea en `SOLUTIONS` con `available: true` y `href: "/<slug>"`.
 
 ## Pendiente antes de publicar
-Dominio real y correos (`onbazartek.com`, `contacto@`/`demo@`/`ventas@` son provisionales), rutas `/blog` y `/privacidad` (hoy 404), redirección 301 de `livento.co` si ese dominio llegó a usarse, y revisar etiquetas "Próximamente" y precios (ver `docs/`).
+Dominio real y correos (`onbazartek.com`, `contacto@`/`demo@`/`ventas@` son provisionales), rutas `/blog` y `/privacidad` (hoy 404), y revisar etiquetas "Próximamente" y precios (ver `docs/`).

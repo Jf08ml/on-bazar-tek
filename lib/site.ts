@@ -8,7 +8,7 @@ export const BRAND_DESC = "Desarrollamos soluciones tecnológicas y productos di
 export const CONTACT = { general: "contacto@onbazartek.com", demo: "demo@onbazartek.com", sales: "ventas@onbazartek.com" };
 export const mailto = (to: string, subject?: string) => `mailto:${to}${subject ? `?subject=${encodeURIComponent(subject)}` : ""}`;
 
-/** Producto inicial (antes presentado como "Livento"). */
+/** Producto inicial: plataforma de webinars y transmisiones en vivo. */
 export const PRODUCT = `${BRAND} Webinars`;
 export const PRODUCT_PATH = "/plataforma-webinars";
 
