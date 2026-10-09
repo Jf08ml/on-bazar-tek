@@ -1,0 +1,19 @@
+html{scroll-behavior:smooth}
+*{box-sizing:border-box}
+body{margin:0;background:oklch(0.985 0.003 260);font-family:var(--font-sans),Helvetica,Arial,sans-serif;color:oklch(0.2 0.02 260);-webkit-font-smoothing:antialiased}
+a{color:oklch(0.52 0.17 265);text-decoration:none}
+a:hover{color:oklch(0.42 0.17 265)}
+:focus-visible{outline:2px solid oklch(0.52 0.17 265);outline-offset:2px}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;scroll-behavior:auto!important}}
+@media (max-width:819px){.desk{display:none!important}}
+@media (min-width:820px){.mob{display:none!important}}
+@media (max-width:440px){.hide-xs{display:none!important}}
+.btn-dark:hover{background:oklch(0.52 0.17 265)!important;color:#fff!important}
+.btn-primary:hover{background:oklch(0.44 0.17 265)!important;color:#fff!important}
+.btn-ghost:hover{border-color:oklch(0.52 0.17 265)!important}
+.btn-light:hover{background:oklch(0.7 0.15 265)!important;color:oklch(0.15 0.02 260)!important}
+.btn-line:hover{border-color:#fff!important}
+.card-hover{transition:transform .2s,border-color .2s}
+.card-hover:hover{border-color:oklch(0.52 0.17 265)!important;transform:translateY(-2px)}
