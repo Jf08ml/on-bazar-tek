@@ -4,7 +4,7 @@ import Script from "next/script";
 import "./globals.css";
 import { SITE, BRAND, BRAND_DESC } from "@/lib/site";
 
-const GA_ID = "G-22BJ9CB5Y7";
+const GA_ID = "G-XCRZSCS7W4";
 
 const sans = Manrope({ subsets: ["latin"], variable: "--font-sans", display: "swap" });
 const mono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono", display: "swap" });
